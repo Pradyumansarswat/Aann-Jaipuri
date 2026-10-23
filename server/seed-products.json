@@ -1,0 +1,152 @@
+[
+ {
+  "code": "AANN-101",
+  "name": "Sanganeri Gulab Kalidar Set",
+  "categories": [
+   "Anarkali",
+   "Block Print",
+   "Cotton Kurtis"
+  ],
+  "fabric": "Pure 60×60 Cambric Cotton with Malmal Dupatta",
+  "sizes": "M (38), L (40), XL (42), XXL (44)",
+  "colors": "Maroon, Indigo Blue",
+  "moq": "1 Set (4 Pieces) · Assorted Bulk Available",
+  "is_new": true,
+  "sort": 10
+ },
+ {
+  "code": "AANN-104",
+  "name": "Bagru Indigo Straight Kurta & Pant",
+  "categories": [
+   "Kurti with Pant Sets",
+   "Block Print",
+   "Straight Cut",
+   "Cotton Kurtis"
+  ],
+  "fabric": "100% Jaipuri Handblock Cotton (60×60)",
+  "sizes": "M, L, XL, XXL",
+  "colors": "Natural Indigo, Rust Terracotta",
+  "moq": "1 Set (4 Pieces)",
+  "is_new": true,
+  "sort": 20
+ },
+ {
+  "code": "AANN-108",
+  "name": "Rajwada Gota Patti Festive Suit Set",
+  "categories": [
+   "Party Wear",
+   "Embroidered",
+   "Kurti with Pant Sets"
+  ],
+  "fabric": "Premium Modal Muslin with Organza Dupatta",
+  "sizes": "M, L, XL, XXL",
+  "colors": "Rani Pink, Mustard Gold, Wine",
+  "moq": "1 Set (4 Pieces)",
+  "is_new": true,
+  "sort": 30
+ },
+ {
+  "code": "AANN-112",
+  "name": "Bani Park Floral Ethnic Co-ord Set",
+  "categories": [
+   "Co-ord Sets",
+   "Cotton Kurtis",
+   "Block Print"
+  ],
+  "fabric": "Pure Flex Cotton with Mirror Neckline",
+  "sizes": "M, L, XL, XXL",
+  "colors": "Ivory-Terracotta, Sage Green",
+  "moq": "1 Set (4 Pieces)",
+  "is_new": true,
+  "sort": 40
+ },
+ {
+  "code": "AANN-115",
+  "name": "Marwar Foil Print Rayon Slub Kurti",
+  "categories": [
+   "Rayon Kurtis",
+   "Straight Cut"
+  ],
+  "fabric": "Heavy 14kg Liva-Certified Rayon Slub",
+  "sizes": "M, L, XL, XXL",
+  "colors": "4 Colour Catalogue Bundle",
+  "moq": "1 Bundle (4 Colours × 1 Size or Size Set)",
+  "is_new": false,
+  "sort": 50
+ },
+ {
+  "code": "AANN-119",
+  "name": "Zardosi & Real Mirror Yoke Straight Kurti",
+  "categories": [
+   "Embroidered",
+   "Straight Cut",
+   "Party Wear"
+  ],
+  "fabric": "Roman Silk with Cotton Lining",
+  "sizes": "M, L, XL, XXL",
+  "colors": "Deep Maroon, Peacock Teal",
+  "moq": "1 Set (4 Pieces)",
+  "is_new": true,
+  "sort": 60
+ },
+ {
+  "code": "AANN-124",
+  "name": "Maharani Plus-Size Sanganeri Kurta Set",
+  "categories": [
+   "Plus Size",
+   "Cotton Kurtis",
+   "Kurti with Pant Sets"
+  ],
+  "fabric": "Pure 60×60 Cambric Cotton",
+  "sizes": "3XL (46), 4XL (48), 5XL (50)",
+  "colors": "Crimson Red, Indigo",
+  "moq": "1 Set (3 Pieces: 3XL–5XL)",
+  "is_new": false,
+  "sort": 70
+ },
+ {
+  "code": "AANN-129",
+  "name": "Amer Paisley Angrakha Anarkali Set",
+  "categories": [
+   "Anarkali",
+   "Party Wear",
+   "Embroidered"
+  ],
+  "fabric": "Jaipuri Mulmul Cotton with Zari Borders",
+  "sizes": "M, L, XL, XXL",
+  "colors": "Ivory Gold, Blush Pink",
+  "moq": "1 Set (4 Pieces)",
+  "is_new": true,
+  "sort": 80
+ },
+ {
+  "code": "AANN-133",
+  "name": "Dabu Mud-Resist Artisanal Co-ord",
+  "categories": [
+   "Co-ord Sets",
+   "Block Print",
+   "Rayon Kurtis"
+  ],
+  "fabric": "Soft Modal Rayon with Kantha Stitch",
+  "sizes": "M, L, XL, XXL",
+  "colors": "Earthy Indigo, Kashish Brown",
+  "moq": "1 Set (4 Pieces)",
+  "is_new": false,
+  "sort": 90
+ },
+ {
+  "code": "AANN-138",
+  "name": "Chokhi Plus-Size Afghani Pant Set",
+  "categories": [
+   "Plus Size",
+   "Kurti with Pant Sets",
+   "Rayon Kurtis"
+  ],
+  "fabric": "Heavy Rayon Slub with Lace Detailing",
+  "sizes": "3XL (46), 4XL (48), 5XL (50)",
+  "colors": "Mustard, Wine Maroon",
+  "moq": "1 Set (3 Pieces: 3XL–5XL)",
+  "is_new": false,
+  "sort": 100
+ }
+]

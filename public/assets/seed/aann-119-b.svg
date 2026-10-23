@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" role="img">
+<defs><pattern id="fab" width="96" height="96" patternUnits="userSpaceOnUse" opacity="1"><rect width="96" height="96" fill="#4A1522"/><path d="M0 48.0 L48.0 0 L96 48.0 L48.0 96Z" fill="none" stroke="#C69C49" stroke-width="1.6"/><circle cx="48.0" cy="48.0" r="5.76" fill="#C69C49"/></pattern><pattern id="bgp" width="52" height="52" patternUnits="userSpaceOnUse" opacity="0.28"><rect width="52" height="52" fill="#F1EBE1"/><path d="M0 26.0 L26.0 0 L52 26.0 L26.0 52Z" fill="none" stroke="#E3C37B" stroke-width="1.6"/><circle cx="26.0" cy="26.0" r="3.12" fill="#E3C37B"/></pattern></defs>
+<rect width="600" height="800" fill="url(#bgp)"/>
+<path d="M60 750 V290.0 A240.0 240.0 0 0 1 540 290.0 V750 Z" fill="url(#fab)"/>
+<path d="M78 750 V290.0 A222.0 222.0 0 0 1 522 290.0 V750 Z" fill="none" stroke="#E3C37B" stroke-width="3"/>
+<path d="M96 750 V290.0 A204.0 204.0 0 0 1 504 290.0 V750 Z" fill="none" stroke="#E3C37B" stroke-width="1" stroke-dasharray="3 7"/>
+<rect x="60" y="720" width="480" height="30" fill="#E3C37B"/>
+</svg>
